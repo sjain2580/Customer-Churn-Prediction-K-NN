@@ -82,7 +82,7 @@ python prediction.py
 The project includes visualizations to better understand the model's behavior:
 
 - Pair Plots: Used to visualize relationships and distributions between different features.ROC Curve: A plot that illustrates the model's ability to distinguish between the churned and non-churned classes at various classification thresholds.
-![Cloudword](cloudword1.png)
+![Pair Plots](plot.png)
 
 ## Contributors
 
